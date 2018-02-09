@@ -1,0 +1,13 @@
+th {
+    color: #555;
+}
+h1 {
+    color: #999;
+}
+
+td {
+    text-align: center;
+}
+#update_btn {
+    float:right;
+}
